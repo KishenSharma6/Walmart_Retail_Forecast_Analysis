@@ -12,3 +12,6 @@
 
 #Ignoring Data/ Files too big
 Data/
+
+#Ignoring to-do list
+to-do.txt
